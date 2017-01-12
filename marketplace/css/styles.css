@@ -1,0 +1,32 @@
+img {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+div {
+  margin-bottom: 25px;
+}
+
+#basketball {
+  width: 20%;
+}
+
+#football {
+  width: 20%;
+}
+
+#golfball {
+  width: 20%;
+}
+
+#tennisball {
+  width: 20%;
+}
+
+#soccerball {
+  width: 20%;
+}
+
+#snitchball {
+  width: 20%;
+}

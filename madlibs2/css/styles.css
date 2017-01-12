@@ -1,0 +1,9 @@
+.entireLetter {
+  width: 75%;
+  margin: auto;
+}
+
+.ghost {
+  color: white;
+  text-decoration: underline black;
+}
